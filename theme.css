@@ -1,0 +1,34 @@
+.reveal-viewport {
+    background-color: #282a36;
+    
+}
+
+.reveal h1, .reveal h2{
+    color: #bd93f9;
+    text-transform: none;
+    font-family: "Abril Text";
+}
+
+.reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #ff79c6;
+    text-transform: none;
+    font-family: "Abril Text";
+}
+
+
+.reveal {
+  font-size: 38px;
+  font-family: "Source Sans Pro";
+}
+
+.reveal a, li {
+  color: #8be9fd
+}
+
+.reveal a:hover {
+  color: #8be9fd
+}
+
+.slides {
+  width: 80% !important;
+}
