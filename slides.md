@@ -167,6 +167,7 @@ configure = config --global --edit
 fm = fetch origin master:master
 fn = fetch origin main:main
 h = log --graph --all --pretty=format:'%C(auto)%d %s %C(yellow)%ad %C(cyan)<%an> %C(green)%h' --date='format-local:%Y-%m-%d %H:%M:%S'
+login = git config credential.helper store
 mm = merge master
 mn = merge main
 pushit = push --no-verify
