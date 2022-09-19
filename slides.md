@@ -172,6 +172,7 @@ mn = merge main
 pushit = push --no-verify
 pushup = push -u origin HEAD
 s = status
+uncommit = reset --soft HEAD^
 unstage = reset HEAD --
 ```
 
