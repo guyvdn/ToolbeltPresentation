@@ -137,7 +137,7 @@ schtasks
 
 ### Windows Defender Exclusions
 
-[https://gist.github.com/Braytiner/be2497d1a06f5a9d943dc7760693d460](https://gist.github.com/Braytiner/be2497d1a06f5a9d943dc7760693d460)
+[Braytiner/Windows Defender Exclusions VS 2022.ps1](https://gist.github.com/Braytiner/be2497d1a06f5a9d943dc7760693d460) <!-- .element: class="fragment" -->
 
 ---
 
@@ -149,6 +149,10 @@ schtasks
 
 ---
 
+### Rainbow Brackets
+
+---
+
 ## Git
 
 ----
@@ -157,8 +161,7 @@ schtasks
 
 ----
 
-```ini [2|3|4|5|6|7|8|9|10|11|12|13|14|15]
-[alias]
+```ini
 aa = add --all
 aliases = config --get-regexp alias
 branches = branch
@@ -189,7 +192,7 @@ unstage = reset HEAD --
 
 </small>
 
-----
+---
 
 ## Browser Extensions
 
@@ -199,7 +202,7 @@ unstage = reset HEAD --
 * Dashlane Passwordmanager <!-- .element: class="fragment" -->
 * Stylus + Tampermonkey <!-- .element: class="fragment" -->
 
-----
+---
 
 ## Windows Terminal Extensions
 
@@ -208,13 +211,33 @@ unstage = reset HEAD --
 * Terminal-Icons <!-- .element: class="fragment" -->
 * ZLocation <!-- .element: class="fragment" -->
 
-Howto: [Scott Hanselman - Ultimate PowerShell prompt](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal) <!-- .element: class="fragment" -->
+<!-- .element -->
+How to: [Scott Hanselman - Ultimate PowerShell prompt](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
+<!-- .element: class="fragment" -->
 
-----
+---
 
 ### Themes
 
-----
+[https://draculatheme.com/](https://draculatheme.com/) <!-- .element: class="fragment" -->
+
+---
 
 ### Cheat Sheets
 
+<!-- .element -->
+
+* Atlassian Git Cheat Sheet
+* HTTP Error Codes Cheat Sheet
+* Resharper - Visual Studio Scheme
+* Resharper - IntelliJ IDEA Scheme
+* The Ultimate Markdown Cheat Sheet
+* Azure Periodic Table of Resource Naming Convention Shorthands
+
+<!-- .element: class="fragment" -->
+
+---
+
+### The End
+
+[https://github.com/guyvdn/toolbelt](https://github.com/guyvdn/toolbelt) <!-- .element: class="fragment" -->

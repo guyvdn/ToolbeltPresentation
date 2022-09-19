@@ -1,3 +1,5 @@
+@import "felipec.css";
+
 .reveal-viewport {
     background-color: #282a36;
     
@@ -21,12 +23,20 @@
   font-family: "Source Sans Pro";
 }
 
-.reveal a, li {
+.reveal li:nth-child(odd) {
+  color: #50fa7b
+}
+
+.reveal li:nth-child(even) {
   color: #8be9fd
 }
 
+.reveal a {
+  color: #ffb86c
+}
+
 .reveal a:hover {
-  color: #8be9fd
+  color: #ffb86c
 }
 
 .slides {
