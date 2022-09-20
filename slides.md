@@ -6,14 +6,44 @@ controls: true
 
 ## Guy's <br/> Productivity <br/> Toolbelt
 
-18/09/2022
-
 ---
 
 ## Disclaimer
 
 - Windows <!-- .element: class="fragment" -->
 - Visual Studio <!-- .element: class="fragment" -->
+
+---
+
+### Cheat Sheets
+
+<!-- .element -->
+
+- Atlassian Git Cheat Sheet
+- HTTP Error Codes Cheat Sheet
+- Resharper - Visual Studio Scheme
+- Resharper - IntelliJ IDEA Scheme
+- The Ultimate Markdown Cheat Sheet
+- Azure Periodic Table of Resource Naming Convention Shorthands
+
+<!-- .element: class="fragment" -->
+
+---
+
+### Themes
+
+[Dracula Theme](https://draculatheme.com/) <!-- .element: class="fragment" -->
+
+---
+
+## Browser Extensions
+
+- Speed Dial 2 New Tab <!-- .element: class="fragment" -->
+- uBlock Origin <!-- .element: class="fragment" -->
+- I don’t care about cookies <!-- .element: class="fragment" -->
+- Dashlane Passwordmanager <!-- .element: class="fragment" -->
+- Stylus + Tampermonkey <!-- .element: class="fragment" -->
+- JSON Formatter <!-- .element: class="fragment" -->
 
 ---
 
@@ -50,6 +80,8 @@ controls: true
 ----
 
 ### Seq
+
+[Centralized structured logging](https://datalust.co/seq) <!-- .element: class="fragment" -->
 
 ----
 
@@ -99,6 +131,8 @@ schtasks
 
 ### Chocolatey
 
+[Install applications and keep them up to date](https://community.chocolatey.org/packages) <!-- .element: class="fragment" -->
+
 ----
 
 Create Scheduled Task to upgrade all applications
@@ -147,9 +181,22 @@ schtasks
 
 ### Project Dashboard
 
----
+----
 
 ### Rainbow Brackets
+
+---
+
+## Windows Terminal Extensions
+
+- CaskaydiaCove NF font <!-- .element: class="fragment" -->
+- Oh My Posh <!-- .element: class="fragment" -->
+- Terminal-Icons <!-- .element: class="fragment" -->
+- ZLocation <!-- .element: class="fragment" -->
+
+<!-- .element -->
+How to: [Scott Hanselman - Ultimate PowerShell prompt](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
+<!-- .element: class="fragment" -->
 
 ---
 
@@ -186,55 +233,15 @@ unstage = reset HEAD --
 
 <small>
 
-* git worktree add -b emergency-fix ../temp master <!-- .element: class="fragment" -->
-* fix things <!-- .element: class="fragment" -->
-* git worktree remove ../temp <!-- .element: class="fragment" -->
+- git worktree add -b emergency-fix ../temp master <!-- .element: class="fragment" -->
+- fix things <!-- .element: class="fragment" -->
+- git worktree remove ../temp <!-- .element: class="fragment" -->
 
 </small>
 
----
+----
 
-## Browser Extensions
-
-* Speed Dial 2 New Tab <!-- .element: class="fragment" -->
-* uBlock Origin <!-- .element: class="fragment" -->
-* I don’t care about cookies <!-- .element: class="fragment" -->
-* Dashlane Passwordmanager <!-- .element: class="fragment" -->
-* Stylus + Tampermonkey <!-- .element: class="fragment" -->
-
----
-
-## Windows Terminal Extensions
-
-* CaskaydiaCove NF font <!-- .element: class="fragment" -->
-* Oh My Posh <!-- .element: class="fragment" -->
-* Terminal-Icons <!-- .element: class="fragment" -->
-* ZLocation <!-- .element: class="fragment" -->
-
-<!-- .element -->
-How to: [Scott Hanselman - Ultimate PowerShell prompt](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
-<!-- .element: class="fragment" -->
-
----
-
-### Themes
-
-[https://draculatheme.com/](https://draculatheme.com/) <!-- .element: class="fragment" -->
-
----
-
-### Cheat Sheets
-
-<!-- .element -->
-
-* Atlassian Git Cheat Sheet
-* HTTP Error Codes Cheat Sheet
-* Resharper - Visual Studio Scheme
-* Resharper - IntelliJ IDEA Scheme
-* The Ultimate Markdown Cheat Sheet
-* Azure Periodic Table of Resource Naming Convention Shorthands
-
-<!-- .element: class="fragment" -->
+[git-removed-branches](https://www.npmjs.com/package/git-removed-branches)
 
 ---
 
