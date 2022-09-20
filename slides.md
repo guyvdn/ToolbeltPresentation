@@ -43,6 +43,7 @@ controls: true
 - I don’t care about cookies <!-- .element: class="fragment" -->
 - Dashlane Passwordmanager <!-- .element: class="fragment" -->
 - Stylus + Tampermonkey <!-- .element: class="fragment" -->
+- Environment Marker <!-- .element: class="fragment" -->
 - JSON Formatter <!-- .element: class="fragment" -->
 
 ---
@@ -147,6 +148,20 @@ schtasks
  /rl HIGHEST
 ```
 
+----
+
+#### Export installed applications
+
+```shell
+choco export "c:\temp\packages.config"
+```
+
+#### Install applications from config file
+
+```shell
+choco install "c:\temp\packages.config"
+```
+
 ---
 
 ## Visual Studio Tools
@@ -166,6 +181,10 @@ schtasks
 ----
 
 ### Rainbow Braces
+
+----
+
+### Help Menu
 
 ----
 
